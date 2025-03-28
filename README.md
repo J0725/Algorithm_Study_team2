@@ -26,15 +26,15 @@
 
 <table align="center">
 <tr align="center">
-<td><img src="" style="width:95%;"></td>
-<td><img src="" style="width:95%;"></td>
-<td><img src="" style="width:95%; "></td>
-<td><img src="" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%; "></td>
 </tr>
 
 
 <tr align="center">
-<td><a href="">영진</td>
+<td><a href="https://github.com/J0725">영진</td>
 <td><a href="">소담</td>
 <td><a href="">은영</td>
 <td><a href="">은아</td>
@@ -43,7 +43,7 @@
 
 
 <tr align="center">
-<td><a href="">영진 블로그</td>
+<td><a href="https://velog.io/@younjin_02/posts">영진 블로그</td>
 <td><a href="">소담 블로그</td>
 <td><a href="">은영 블로그</td>
 <td><a href="">은아 블로그</td>
