@@ -37,7 +37,7 @@
 <td><a href="https://github.com/J0725">영진</td>
 <td><a href="https://github.com/sodam2z">소담</td>
 <td><a href="https://github.com/eun5young">은영</td>
-<td><a href="">은아</td>
+<td><a href="https://github.com/tprpt">은아</td>
 
 </tr>
 
