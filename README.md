@@ -22,15 +22,44 @@
 - [ ] 4주차:   
 
 
-## 👥 스터디원
+### 스터디원
 
-| 이름 | GitHub | 블로그 |
-|------|--------|--------|
-| 주영진 | [) | [) |
-| 이소담 | [) | [) |
-| 오은영 | [) | [) |
-| 변은아 | [) | [) |
+<table align="center">
+<tr align="center">
+<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/181312333?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/137254772?v=4" style="width:95%; "></td>
+</tr>
 
----
+
+<tr align="center">
+<td><a href="">영진</td>
+<td><a href="">소담</td>
+<td><a href="">은영</td>
+<td><a href="">은아</td>
+
+</tr>
+
+
+<tr align="center">
+<td><a href="">영진 블로그</td>
+<td><a href="">소담 블로그</td>
+<td><a href="">은영 블로그</td>
+<td><a href="">은아 블로그</td>
+</tr>
+</table>
+
+<br>
+
+2025.04.03 (목)
+
+**Section 01.**
+
+* 영진 <a href="">Section1 정리자료</a>
+* 소담 <a href="">Section1 정리자료</a>
+* 은영 <a href="">Section1,2 정리자료</a>
+* 은아 <a href="">Section1,2 정리자료</a>
+<br>
 
 > 전원 알고리즘 A0 이상 기원 🔥  
