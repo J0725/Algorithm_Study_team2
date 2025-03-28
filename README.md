@@ -46,7 +46,7 @@
 <td><a href="https://velog.io/@younjin_02/posts">영진 블로그</td>
 <td><a href="">소담 블로그</td>
 <td><a href="">은영 블로그</td>
-<td><a href="">은아 블로그</td>
+<td><a href="https://velog.io/@pinia124/posts">은아 블로그</td>
 </tr>
 </table>
 
