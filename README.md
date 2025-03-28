@@ -58,8 +58,8 @@
 
 * 영진 <a href="">Section1 정리자료</a>
 * 소담 <a href="">Section1 정리자료</a>
-* 은영 <a href="">Section1,2 정리자료</a>
-* 은아 <a href="">Section1,2 정리자료</a>
+* 은영 <a href="">Section1 정리자료</a>
+* 은아 <a href="">Section1 정리자료</a>
 <br>
 
 > 전원 알고리즘 A0 이상 기원 🔥  
