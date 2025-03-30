@@ -17,14 +17,14 @@
 - 문제는 스터디 시간전까지 각자 자신의 branch(브랜치명: 본인이름)에 올려서 pull request 보내기
 
 ## 📚 진도  
-- [ ] 1주차(04.03): Basic of grpah & Implementation [백준]
-- [ ] 2주차(04.10): Traversal of Grpah
-- [ ] 3주차(04.17): Minimum Spanning Tree
+- [ ] 1주차(04.03): Basic of grpah & Implementation [백준 11724, 1707]
+- [ ] 2주차(04.10): Traversal of Grpah [백준 1260, 1012]
+- [ ] 3주차(04.17): Minimum Spanning Tree [백준 1197, 1922]
 - [ ] 4주차(04.24): 중간고사 주간. Skip😎(Shortest Path Algorithm)
-- [ ] 5주차(05.01): Brute-force Algorithm
-- [ ] 6주차(05.08): Greedy Algorithm
-- [ ] 7주차(05.15): Divide and Conquer
-- [ ] 8주차(05.22): Dynamic programming
+- [ ] 5주차(05.01): Brute-force Algorithm [백준 2231, 7568]
+- [ ] 6주차(05.08): Greedy Algorithm [백준 11399, 1931]
+- [ ] 7주차(05.15): Divide and Conquer [백준 2630, 1992]
+- [ ] 8주차(05.22): Dynamic programming [백준 1463, 9095]
 
 ### 스터디원
 
