@@ -60,7 +60,7 @@
 
 **Section 01. Basic of Graph & Implementation**
 
-* 영진 <a href="">Section1 정리자료</a>
+* 영진 <a href="https://velog.io/@younjin_02/Algorithm-04.-Basic-Graph-Implementation">Section1 정리자료</a>
 * 소담 <a href="">Section1 정리자료</a>
 * 은영 <a href="">Section1 정리자료</a>
 * 은아 <a href="">Section1 정리자료</a>
