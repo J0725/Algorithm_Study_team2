@@ -49,7 +49,7 @@
 <tr align="center">
 <td><a href="https://velog.io/@younjin_02/posts">영진 블로그</td>
 <td><a href="https://velog.io/@sodam2z/posts">소담 블로그</td>
-<td><a href="">은영 블로그</td>
+<td><a href="https://velog.io/@eun5young/posts">은영 블로그</td>
 <td><a href="https://velog.io/@pinia124/posts">은아 블로그</td>
 </tr>
 </table>
@@ -62,7 +62,7 @@
 
 * 영진 <a href="https://velog.io/@younjin_02/Algorithm-04.-Basic-Graph-Implementation">Section1 정리자료</a>
 * 소담 <a href="https://velog.io/@sodam2z/Algorithm-Basic-of-Graph">Section1 정리자료</a>
-* 은영 <a href="">Section1 정리자료</a>
+* 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-1">Section1 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-3.-Basic-of-graph">Section1 정리자료</a>
 
 2025.04.10 (목)
