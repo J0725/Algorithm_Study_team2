@@ -4,7 +4,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Graph11724 {
+public class Graph11724_Youngjin {
     static ArrayList<Integer>[] graph;
     static boolean visited[];
     public static void main(String[] args) {
