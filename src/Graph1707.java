@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Graph1707 {
+public class Graph1707_Youngjin {
     static ArrayList<Integer>[] graph;
     static int[] group; //미방문 = 0, 그룹A = 1, 그룹 B = 2로 설정
     static boolean isBipartite;
