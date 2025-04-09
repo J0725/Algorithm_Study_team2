@@ -73,6 +73,15 @@
 * 소담 <a href="">Section2 정리자료</a>
 * 은영 <a href="">Section2 정리자료</a>
 * 은아 <a href="">Section2 정리자료</a>
+
+2025.04.17 (목)
+
+**Section 03. Minimum Spanning Tree(MST)**
+
+* 영진 <a href="">Section2 정리자료</a>
+* 소담 <a href="">Section2 정리자료</a>
+* 은영 <a href="">Section2 정리자료</a>
+* 은아 <a href="">Section2 정리자료</a>
 <br>
 
 > 전원 알고리즘 A0 이상 기원 🔥  
