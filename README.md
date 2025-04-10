@@ -71,7 +71,7 @@
 
 * 영진 <a href="https://velog.io/@younjin_02/Algorithm-05.-Traversal-of-Graph">Section2 정리자료</a>
 * 소담 <a href="https://velog.io/@sodam2z/AlgorithmTraversal-of-Graph">Section2 정리자료</a>
-* 은영 <a href="">Section2 정리자료</a>
+* 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-2">Section2 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-4.-Traversal-of-Graph">Section2 정리자료</a>
 
 2025.04.17 (목)
