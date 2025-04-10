@@ -70,7 +70,7 @@
 **Section 02. Traversal of Grpah**
 
 * 영진 <a href="">Section2 정리자료</a>
-* 소담 <a href="">Section2 정리자료</a>
+* 소담 <a href="https://velog.io/@sodam2z/AlgorithmTraversal-of-Graph">Section2 정리자료</a>
 * 은영 <a href="">Section2 정리자료</a>
 * 은아 <a href="">Section2 정리자료</a>
 <br>
