@@ -78,7 +78,7 @@
 
 **Section 03. Minimum Spanning Tree(MST)**
 
-* 영진 <a href="">Section3 정리자료</a>
+* 영진 <a href="https://velog.io/@younjin_02/Algorithm-06.-Minimum-Spanning-TreeMST">Section3 정리자료</a>
 * 소담 <a href="">Section3 정리자료</a>
 * 은영 <a href="">Section3 정리자료</a>
 * 은아 <a href="">Section3 정리자료</a>
