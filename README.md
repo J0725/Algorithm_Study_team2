@@ -1,6 +1,6 @@
 <div align="center">
   
-## 📘 Algorithm_Study_Team2
+# 📘 Algorithm_Study_Team2
 
 </div>
 
