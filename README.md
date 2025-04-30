@@ -82,6 +82,15 @@
 * 소담 <a href="https://velog.io/@sodam2z/AlgorithmMinimum-Spanning-Trees">Section3 정리자료</a>
 * 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-3">Section3 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-5.-Minimum-Spanning-Trees">Section3 정리자료</a>
+
+2025.05.01 (목)
+
+**Section 05. Brute-force Algorithm**
+
+* 영진 <a href="">Section5 정리자료</a>
+* 소담 <a href="">Section5 정리자료</a>
+* 은영 <a href="">Section5 정리자료</a>
+* 은아 <a href="https://velog.io/@pinia124/Algorithm-7.-Brute-force-Algorithm">Section5 정리자료</a>
 <br>
 
 > 전원 알고리즘 A0 이상 기원 🔥  
