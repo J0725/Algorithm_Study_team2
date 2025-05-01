@@ -88,7 +88,7 @@
 **Section 05. Brute-force Algorithm**
 
 * 영진 <a href="">Section5 정리자료</a>
-* 소담 <a href="">Section5 정리자료</a>
+* 소담 <a href="https://velog.io/@sodam2z/AlgorithmBrute-force-Algorithm">Section5 정리자료</a>
 * 은영 <a href="">Section5 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-7.-Brute-force-Algorithm">Section5 정리자료</a>
 <br>
