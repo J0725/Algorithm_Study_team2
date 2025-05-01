@@ -89,7 +89,7 @@
 
 * 영진 <a href="https://velog.io/@younjin_02/Algorithm-07.-Brute-Force-algorithm">Section5 정리자료</a>
 * 소담 <a href="https://velog.io/@sodam2z/AlgorithmBrute-force-Algorithm">Section5 정리자료</a>
-* 은영 <a href="">Section5 정리자료</a>
+* 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-4">Section5 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-7.-Brute-force-Algorithm">Section5 정리자료</a>
 <br>
 
