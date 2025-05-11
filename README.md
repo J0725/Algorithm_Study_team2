@@ -93,4 +93,14 @@
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-7.-Brute-force-Algorithm">Section5 정리자료</a>
 <br>
 
+2025.05.11 (일)
+
+**Section 06. Greedy Algorithm**
+
+* 영진 <a href="">Section6 정리자료</a>
+* 소담 <a href="">Section6 정리자료</a>
+* 은영 <a href="">Section6 정리자료</a>
+* 은아 <a href="">Section6 정리자료</a>
+<br>
+
 > 전원 알고리즘 A0 이상 기원 🔥  
