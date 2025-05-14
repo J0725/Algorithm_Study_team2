@@ -103,4 +103,14 @@
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-8.-Greedy-Algorithm">Section6 정리자료</a>
 <br>
 
+2025.05.15 (목)
+
+**Section 07. Divide and Conquer**
+
+* 영진 <a href="">Section6 정리자료</a>
+* 소담 <a href="">Section6 정리자료</a>
+* 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-6">Section6 정리자료</a>
+* 은아 <a href="">Section6 정리자료</a>
+<br>
+
 > 전원 알고리즘 A0 이상 기원 🔥  
