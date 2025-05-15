@@ -110,7 +110,7 @@
 * 영진 <a href="https://velog.io/@younjin_02/Algorithm-09.-Divide-and-Conquer">Section7 정리자료</a>
 * 소담 <a href="https://velog.io/@sodam2z/AlgorithmDivide-and-Conquer">Section7 정리자료</a>
 * 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-6">Section7 정리자료</a>
-* 은아 <a href="">Section7 정리자료</a>
+* 은아 <a href="https://velog.io/@pinia124/Algorithm-9.-Divide-and-Conquer">Section7 정리자료</a>
 <br>
 
 > 전원 알고리즘 A0 이상 기원 🔥  
