@@ -113,4 +113,14 @@
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-9.-Divide-and-Conquer">Section7 정리자료</a>
 <br>
 
+2025.05.22 (목)
+
+**Section 08. Dynamic Programming**
+
+* 영진 <a href="">Sectio8 정리자료</a>
+* 소담 <a href="">Section8 정리자료</a>
+* 은영 <a href="">Section8 정리자료</a>
+* 은아 <a href="">Section8 정리자료</a>
+<br>
+
 > 전원 알고리즘 A0 이상 기원 🔥  
