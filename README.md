@@ -119,7 +119,7 @@
 
 * 영진 <a href="https://velog.io/@younjin_02/Algorithm-10.-Dynamic-Programming">Sectio8 정리자료</a>
 * 소담 <a href="https://velog.io/@sodam2z/AlgorithmDynamic-Programming">Section8 정리자료</a>
-* 은영 <a href="">Section8 정리자료</a>
+* 은영 <a href="https://velog.io/@eun5young/알고리즘-스터디-7-gr4d6spi">Section8 정리자료</a>
 * 은아 <a href="https://velog.io/@pinia124/Algorithm-10.-Dynamic-Programming">Section8 정리자료</a>
 <br>
 
